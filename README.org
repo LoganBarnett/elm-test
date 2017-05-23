@@ -1,0 +1,5 @@
+To start the app in development mode:
+
+#+BEGIN_EXAMPLE bash
+elm-reactor
+#+END_EXAMPLE
